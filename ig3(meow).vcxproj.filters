@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ig3(meow).cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\camera.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\ig_3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\math_3d.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\pipeline.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\.gitattributes">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\.gitignore">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\ig_3.vcxproj">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\ig_3.vcxproj.filters">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\packages.config">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\camera.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\math_3d.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ig_3-05b563862bdee7901af666c1dbc1b38c17f017a8\pipeline.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
